@@ -1,4 +1,4 @@
-# [TWITTER]-dev-scripts
+# [EXP]-dev-scripts
 
 ## `Overview 🏝`
 This is a repository filled with my [Tweepy](https://www.tweepy.org/) scripts. I created these scripts based on some open-source references.
